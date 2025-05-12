@@ -9,7 +9,7 @@ Desenvolvedor(a) Web | Estudante de Computação
 ---
 
 ## Sobre mim
-Meu nome eh Vinicius nasci em Brasília DF porem vivi grande parte da minha vida no Paraná atualmente tenho 18 anos terminei o ensino médio ano passado e estou cursando Ciência da Computação No Centro Universitário de Brasília(Ceub),
+Meu nome é Vinicius nasci em Brasília DF porem vivi grande parte da minha vida no Paraná.Atualmente tenho 18 anos terminei o ensino médio ano passado, e estou cursando Ciência da Computação No Centro Universitário de Brasília(Ceub),
 Desde muito novo sempre tive contato com o mundo de tecnologia e sempre tive muito interesse e empolgação sobre o assunto por isso quando completei meu ensino médio fiz questão de entrar para cursar essa área, sempre busco entender mais da área e apreender como que ela funciona para que isso me permita crescer tanto no âmbito acadêmico quanto profissional  
 
 Sou uma pessoa muito alegre, comunicativa, dedica e com um bom olhar profissional gosto de estar a frente de projetos e desafios e acredito que sempre com o estudo se pode alcançar todos os seus objetivos
